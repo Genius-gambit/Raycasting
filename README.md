@@ -6,4 +6,6 @@
 
 [**Minilibx-Linux Version**](https://github.com/Genius-gambit/minilibx-linux-raycasting)
 
+[**Raycasting Algorithm**](https://github.com/Genius-gambit/cub3D-Linux/tree/master/Raycasting%20Algorithm)
+
 ![posted](https://user-images.githubusercontent.com/81755254/179372759-3deef13a-9706-4695-9ed9-31cfe4b3f0b9.gif)
